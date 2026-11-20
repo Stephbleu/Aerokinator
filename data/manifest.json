@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "datasetVersion": "2026-11-21-seed",
+  "generatedAt": "2026-11-21",
+  "recordCount": 39,
+  "status": "starter-seed-not-exhaustive",
+  "categories": {
+    "civil": {
+      "file": "civil.json",
+      "count": 22
+    },
+    "military": {
+      "file": "military.json",
+      "count": 17
+    }
+  },
+  "loading": "category-sharded-json",
+  "imageProvider": "Wikimedia Commons API"
+}

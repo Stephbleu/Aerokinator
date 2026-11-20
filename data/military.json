@@ -1,0 +1,580 @@
+[
+  {
+    "id": "rafale",
+    "familyId": "rafale",
+    "name": "Dassault Rafale",
+    "manufacturer": "Dassault Aviation",
+    "country": "France",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur multirôle",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1986",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteurs avec postcombustion",
+    "engineCount": 2,
+    "performance": {
+      "maxSpeed": "Mach 1,8",
+      "range": "Dépend de la mission",
+      "ceiling": "15 240 m"
+    },
+    "capacity": {
+      "crew": "1 ou 2",
+      "seats": "1–2"
+    },
+    "keywords": "chasseur multirôle armée",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Dassault Rafale aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "mirage2000",
+    "familyId": "mirage2000",
+    "name": "Dassault Mirage 2000",
+    "manufacturer": "Dassault Aviation",
+    "country": "France",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur / interception",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1978",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteur avec postcombustion",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "Mach 2,2",
+      "range": "Variable selon mission",
+      "ceiling": "18 000 m"
+    },
+    "capacity": {
+      "crew": "1 ou 2",
+      "seats": "1–2"
+    },
+    "keywords": "chasseur delta français",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Dassault Mirage 2000 aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "eurofighter",
+    "familyId": "eurofighter",
+    "name": "Eurofighter Typhoon",
+    "manufacturer": "Consortium européen",
+    "country": "Europe",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur multirôle",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1994",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteurs avec postcombustion",
+    "engineCount": 2,
+    "performance": {
+      "maxSpeed": "Mach 2",
+      "range": "Variable selon mission",
+      "ceiling": "19 800 m"
+    },
+    "capacity": {
+      "crew": "1 ou 2",
+      "seats": "1–2"
+    },
+    "keywords": "chasseur européen",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Eurofighter Typhoon aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "f16",
+    "familyId": "f16",
+    "name": "General Dynamics F-16 Fighting Falcon",
+    "manufacturer": "General Dynamics / Lockheed Martin",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur multirôle",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1974",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteur avec postcombustion",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "Mach 2",
+      "range": "Variable selon mission",
+      "ceiling": "15 240 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "chasseur monoréacteur",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "General Dynamics F-16 Fighting Falcon aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "f35",
+    "familyId": "f35",
+    "name": "Lockheed Martin F-35 Lightning II",
+    "manufacturer": "Lockheed Martin",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur furtif multirôle",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "2006",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteur",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "Mach 1,6",
+      "range": "Variable selon version",
+      "ceiling": "15 000 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "furtif stealth monoréacteur",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Lockheed Martin F-35 Lightning II aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "f22",
+    "familyId": "f22",
+    "name": "Lockheed Martin F-22 Raptor",
+    "manufacturer": "Lockheed Martin",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Supériorité aérienne furtive",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1997",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteurs avec postcombustion",
+    "engineCount": 2,
+    "performance": {
+      "maxSpeed": "Mach 2+",
+      "range": "Variable selon mission",
+      "ceiling": "20 000 m environ"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "furtif stealth chasseur",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Lockheed Martin F-22 Raptor aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "a10",
+    "familyId": "a10",
+    "name": "Fairchild Republic A-10 Thunderbolt II",
+    "manufacturer": "Fairchild Republic",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Appui aérien rapproché",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1972",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Turboréacteurs",
+    "engineCount": 2,
+    "performance": {
+      "maxSpeed": "706 km/h",
+      "range": "1 290 km",
+      "ceiling": "13 700 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "attaque au sol robuste",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Fairchild Republic A-10 Thunderbolt II aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "c130",
+    "familyId": "c130",
+    "name": "Lockheed C-130 Hercules",
+    "manufacturer": "Lockheed",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Transport militaire",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1954",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Hélice",
+    "engineType": "Turbopropulseurs",
+    "engineCount": 4,
+    "performance": {
+      "maxSpeed": "592 km/h",
+      "range": "3 800 km",
+      "ceiling": "10 000 m"
+    },
+    "capacity": {
+      "crew": "5 environ",
+      "seats": "Variable"
+    },
+    "keywords": "transport cargo quadrimoteur",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Lockheed C-130 Hercules aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "b2",
+    "familyId": "b2",
+    "name": "Northrop B-2 Spirit",
+    "manufacturer": "Northrop",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Bombardier furtif",
+    "status": "flown",
+    "era": "Moderne",
+    "firstFlight": "1989",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteurs",
+    "engineCount": 4,
+    "performance": {
+      "maxSpeed": "Mach 0,95",
+      "range": "11 000 km sans ravitaillement",
+      "ceiling": "15 000 m"
+    },
+    "capacity": {
+      "crew": "2",
+      "seats": "2"
+    },
+    "keywords": "aile volante furtif bombardier",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Northrop B-2 Spirit aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "spitfire",
+    "familyId": "spitfire",
+    "name": "Supermarine Spitfire",
+    "manufacturer": "Supermarine",
+    "country": "Royaume-Uni",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur",
+    "status": "flown",
+    "era": "Seconde Guerre mondiale",
+    "firstFlight": "1936",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Hélice",
+    "engineType": "Moteur à pistons",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "Environ 600 km/h",
+      "range": "Variable selon version",
+      "ceiling": "13 000 m environ"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "hélice seconde guerre mondiale",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Supermarine Spitfire aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "mustang",
+    "familyId": "mustang",
+    "name": "North American P-51 Mustang",
+    "manufacturer": "North American",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur / escorte",
+    "status": "flown",
+    "era": "Seconde Guerre mondiale",
+    "firstFlight": "1940",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Hélice",
+    "engineType": "Moteur à pistons",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "703 km/h",
+      "range": "2 755 km avec réservoirs",
+      "ceiling": "12 800 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "hélice seconde guerre mondiale",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "North American P-51 Mustang aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "zero",
+    "familyId": "zero",
+    "name": "Mitsubishi A6M Zero",
+    "manufacturer": "Mitsubishi",
+    "country": "Japon",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur embarqué",
+    "status": "flown",
+    "era": "Seconde Guerre mondiale",
+    "firstFlight": "1939",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Hélice",
+    "engineType": "Moteur à pistons",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "533 km/h",
+      "range": "3 100 km environ",
+      "ceiling": "10 000 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "chasseur japonais porte avions",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Mitsubishi A6M Zero aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "b17",
+    "familyId": "b17",
+    "name": "Boeing B-17 Flying Fortress",
+    "manufacturer": "Boeing",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Bombardier lourd",
+    "status": "flown",
+    "era": "Seconde Guerre mondiale",
+    "firstFlight": "1935",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Hélice",
+    "engineType": "Moteurs à pistons",
+    "engineCount": 4,
+    "performance": {
+      "maxSpeed": "462 km/h",
+      "range": "3 220 km",
+      "ceiling": "10 850 m"
+    },
+    "capacity": {
+      "crew": "10",
+      "seats": "10"
+    },
+    "keywords": "bombardier quadrimoteur",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Boeing B-17 Flying Fortress aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "sr71",
+    "familyId": "sr71",
+    "name": "Lockheed SR-71 Blackbird",
+    "manufacturer": "Lockheed",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Reconnaissance stratégique",
+    "status": "flown",
+    "era": "Guerre froide",
+    "firstFlight": "1964",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Turboréacteurs",
+    "engineCount": 2,
+    "performance": {
+      "maxSpeed": "Mach 3,2+",
+      "range": "5 400 km",
+      "ceiling": "25 900 m"
+    },
+    "capacity": {
+      "crew": "2",
+      "seats": "2"
+    },
+    "keywords": "reconnaissance espionnage très rapide",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Lockheed SR-71 Blackbird aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "u2",
+    "familyId": "u2",
+    "name": "Lockheed U-2",
+    "manufacturer": "Lockheed",
+    "country": "États-Unis",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Reconnaissance haute altitude",
+    "status": "flown",
+    "era": "Guerre froide",
+    "firstFlight": "1955",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Réacteur",
+    "engineCount": 1,
+    "performance": {
+      "maxSpeed": "805 km/h environ",
+      "range": "11 000 km",
+      "ceiling": "21 000 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "espionnage haute altitude",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Lockheed U-2 aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "ju52",
+    "familyId": "ju52",
+    "name": "Junkers Ju 52",
+    "manufacturer": "Junkers",
+    "country": "Allemagne",
+    "category": "military",
+    "type": "Avion de transport",
+    "role": "Transport de passagers / militaire",
+    "status": "flown",
+    "era": "Historique",
+    "firstFlight": "1930",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Hélice",
+    "engineType": "Moteurs à pistons",
+    "engineCount": 3,
+    "performance": {
+      "maxSpeed": "265 km/h",
+      "range": "1 000 km",
+      "ceiling": "5 900 m"
+    },
+    "capacity": {
+      "crew": "2–3",
+      "seats": "17"
+    },
+    "keywords": "trimoteur historique corrugué",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Junkers Ju 52 aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  },
+  {
+    "id": "me262",
+    "familyId": "me262",
+    "name": "Messerschmitt Me 262",
+    "manufacturer": "Messerschmitt",
+    "country": "Allemagne",
+    "category": "military",
+    "type": "Avion militaire",
+    "role": "Chasseur à réaction",
+    "status": "flown",
+    "era": "Seconde Guerre mondiale",
+    "firstFlight": "1942",
+    "variantOf": null,
+    "variant": null,
+    "propulsion": "Jet",
+    "engineType": "Turboréacteurs",
+    "engineCount": 2,
+    "performance": {
+      "maxSpeed": "870 km/h",
+      "range": "1 050 km",
+      "ceiling": "11 450 m"
+    },
+    "capacity": {
+      "crew": "1",
+      "seats": "1"
+    },
+    "keywords": "premier chasseur opérationnel à réaction",
+    "image": {
+      "provider": "wikimedia-commons",
+      "query": "Messerschmitt Me 262 aircraft"
+    },
+    "sources": [],
+    "dataQuality": "starter-unverified"
+  }
+]

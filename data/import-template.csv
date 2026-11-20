@@ -1,0 +1,2 @@
+id,familyId,name,manufacturer,country,category,type,status,role,era,firstFlight,variantOf,variant,propulsion,engineType,engineCount,maxSpeed,range,ceiling,crew,seats,keywords,sourceUrl
+cessna-172m,cessna-172,Cessna 172M,Cessna,États-Unis,civil,Avion léger,flown,École et tourisme,Moderne,1969,,,,Piston,1,,,,,,monomoteur école aile haute,https://example.org/source

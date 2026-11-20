@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AeroKinator Aircraft Record",
+  "type": "object",
+  "required": [
+    "id",
+    "familyId",
+    "name",
+    "category",
+    "type",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "familyId": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "manufacturer": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "category": {
+      "enum": [
+        "civil",
+        "military",
+        "gliders",
+        "helicopters",
+        "experimental",
+        "amphibious",
+        "other"
+      ]
+    },
+    "type": {
+      "type": "string"
+    },
+    "role": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "enum": [
+        "flown",
+        "prototype-flown",
+        "project-only",
+        "cancelled",
+        "unknown"
+      ]
+    },
+    "era": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "firstFlight": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "variantOf": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "variant": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "propulsion": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "engineType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "engineCount": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "performance": {
+      "type": "object"
+    },
+    "capacity": {
+      "type": "object"
+    },
+    "keywords": {
+      "type": "string"
+    },
+    "image": {
+      "type": "object"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "dataQuality": {
+      "type": "string"
+    }
+  }
+}
